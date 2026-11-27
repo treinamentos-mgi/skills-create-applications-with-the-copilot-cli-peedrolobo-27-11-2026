@@ -1,0 +1,23 @@
+{
+  "name": "skills-create-applications-with-the-copilot-cli-peedrolobo-27-11-2026",
+  "version": "1.0.0",
+  "description": "_Aprenda a usar o GitHub Copilot CLI, uma aplicação standalone de terminal, para gerenciar issues e criar uma aplicação de calculadora em Node.js._",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treinamentos-mgi/skills-create-applications-with-the-copilot-cli-peedrolobo-27-11-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treinamentos-mgi/skills-create-applications-with-the-copilot-cli-peedrolobo-27-11-2026/issues"
+  },
+  "homepage": "https://github.com/treinamentos-mgi/skills-create-applications-with-the-copilot-cli-peedrolobo-27-11-2026#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
